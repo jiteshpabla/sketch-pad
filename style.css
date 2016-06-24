@@ -1,0 +1,18 @@
+#container {
+		position: relative;
+	top: 30px;
+	font-size: 0; /*this is very important to remove the space between lines*/
+	height:960px;
+	width:960px;
+  margin:auto; /*centers the grid*/
+}
+
+.box {
+  display: inline-block;
+  background-color: rgb(100, 200, 200);
+  margin:0;
+	padding:0;
+	border:none;
+	outline:none;
+ 
+}

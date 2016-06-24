@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title> Javascript/jQuery Grid </title>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script type="text/javascript" src=jq.js"></script>
+  <link href='style.css' rel='stylesheet' >
+</head>
+
+<body >
+  <center>
+    <h1>pixel sketch-pad</h1>
+  <button id="opacity">opacity</button>
+  <button id="trail">trail</button>
+  <button id="normal">normal</button>
+  <br><br>
+  <button id="reset">reset</button>
+  </center>
+  
+  <div id="container">
+  </div>
+  
+</body>
